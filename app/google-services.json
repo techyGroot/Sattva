@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "365335965868",
+    "project_id": "sattva-999db",
+    "storage_bucket": "sattva-999db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365335965868:android:f340a31b49d072c9e76f09",
+        "android_client_info": {
+          "package_name": "com.sattva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365335965868-6ssnfclq06qqpbrv6ac1oevc3aoliq4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZbNSFBeUxF8C67naiJVsffjF4Hq6YoZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365335965868-6ssnfclq06qqpbrv6ac1oevc3aoliq4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
