@@ -21,6 +21,9 @@
         app:srcCompat="@drawable/sattva_bg" />
 
     <com.sattva.utils.MSPTextViewBold
+
+        android:paddingLeft="30sp"
+        android:paddingRight="30sp"
         android:id="@+id/tv_app_name"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -41,11 +44,11 @@
         android:text="For A Better Earth"
         android:textColor="@color/colorWhite"
         android:textSize="20sp"
+        android:gravity="center_horizontal"
         app:layout_constraintBottom_toBottomOf="@+id/imageView2"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tv_app_name"
-        app:layout_constraintVertical_bias="0.4" />
+        app:layout_constraintVertical_bias="0.236" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
