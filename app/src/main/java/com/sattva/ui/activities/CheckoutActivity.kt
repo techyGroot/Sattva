@@ -158,15 +158,15 @@ class CheckoutActivity : BaseActivity() {
             }
         }
 
-        tv_checkout_sub_total.text = "$$mSubTotal"
-        // Here we have kept Shipping Charge is fixed as $10 but in your case it may cary. Also, it depends on the location and total amount.
-        tv_checkout_shipping_charge.text = "$10.0"
+        tv_checkout_sub_total.text = "₹$mSubTotal"
+        // Here we have kept Shipping Charge is fixed as ₹50 but in your case it may cary. Also, it depends on the location and total amount.
+        tv_checkout_shipping_charge.text = "₹50.0"
 
         if (mSubTotal > 0) {
             ll_checkout_place_order.visibility = View.VISIBLE
 
             mTotalAmount = mSubTotal + 10.0
-            tv_checkout_total_amount.text = "$$mTotalAmount"
+            tv_checkout_total_amount.text = "₹$mTotalAmount"
         } else {
             ll_checkout_place_order.visibility = View.GONE
         }

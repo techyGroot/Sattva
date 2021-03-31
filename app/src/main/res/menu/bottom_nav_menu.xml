@@ -20,4 +20,9 @@
         android:id="@+id/navigation_sold_products"
         android:icon="@drawable/ic_vector_sold_products"
         android:title="@string/title_sold_products" />
+
+    <item
+        android:id="@+id/navigation_motive"
+        android:icon="@drawable/ic_outline_info_24"
+        android:title="Motive" />
 </menu>

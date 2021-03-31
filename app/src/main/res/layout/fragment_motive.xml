@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.fragments.MotiveFragment">
+
+    <!-- Nested Scroll view -->
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:background="@color/colorWhite"
+            >
+
+            <ImageView
+                android:layout_marginTop="30sp"
+                android:layout_marginBottom="15sp"
+                android:layout_gravity="center"
+                android:layout_width="@dimen/auth_logo_height_size"
+                android:layout_height="@dimen/auth_logo_height_size"
+                android:src="@drawable/sattva_logo"
+                />
+
+            <com.sattva.utils.MSPTextViewBold
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="35sp"
+                android:gravity="center_horizontal"
+                android:textFontWeight="800"
+                android:text="Sattva"
+                />
+            <com.sattva.utils.MSPTextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="10sp"
+                android:lineHeight="40sp"
+                android:textSize="20sp"
+                android:layout_margin="@dimen/text_margin"
+                android:text="@string/large_text" />
+
+        </LinearLayout>
+
+
+    </androidx.core.widget.NestedScrollView>
+
+</RelativeLayout>
+

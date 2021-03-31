@@ -77,7 +77,7 @@
 
     <string name="title_add_product">ADD PRODUCT</string>
     <string name="et_hint_product_title">Product Title</string>
-    <string name="et_hint_product_price">Product Price ($)</string>
+    <string name="et_hint_product_price">Product Price (₹)</string>
     <string name="et_hint_product_description">Product Description</string>
     <string name="et_hint_product_quantity">Product Quantity</string>
 
@@ -175,5 +175,11 @@
 
     <string name="title_sold_product_details">SOLD PRODUCT DETAILS</string>
     <string name="sattva">SATTVA</string>
+    <string name="large_text">
+        "Sattva is one of the three "modes of existence" a philosophical and psychological concept developed by the Samkhya school of Hindu philosophy.\n\n"
+        "It refers to the quality of goodness, positivity, truth, serenity, balance, peacefulness.\n\n"
+        "Sattva is an e-commerce app developed for the purpose of digitalizing short-scale industries set up in the backward areas of society owing to their development.\n"
+        "Sattva is developed as one of the solutions to the 17 Sustainable Development Goals.\n\nSattva primarily focuses on setting up short-scale industries which manufacture sustainable products and digitalize them to provide access to a wider range of audience.\n\n"
+    </string>
 
 </resources>
