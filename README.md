@@ -46,3 +46,13 @@ It is developed as one of the solutions to the 17 Sustainable Development Goals.
 <div>
 
 
+
+### Contributors
+ [Niveditha Palli](https://niveditha18.github.io/portfolio/) - Domain Head of Web development domain, DSC AUCE | [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/niveditha-palli-9493171b7/)
+&nbsp; <br />
+ [Karun Karthik Tumurotu](https://karunkarthik-portfolio.netlify.app/) - Android Study Jams Facilitator, DSC AUCE | [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/karun-karthik-5a0794187/)
+&nbsp; 
+
+
+
+
