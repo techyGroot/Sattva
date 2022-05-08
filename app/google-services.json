@@ -1,33 +1,70 @@
 {
   "project_info": {
-    "project_number": "365335965868",
-    "project_id": "sattva-999db",
-    "storage_bucket": "sattva-999db.appspot.com"
+    "project_number": "577049293609",
+    "project_id": "e-commerce-solution-70eee",
+    "storage_bucket": "e-commerce-solution-70eee.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:365335965868:android:f340a31b49d072c9e76f09",
+        "mobilesdk_app_id": "1:577049293609:android:924cbc2f0a523a79163d38",
         "android_client_info": {
           "package_name": "com.sattva"
         }
       },
       "oauth_client": [
         {
-          "client_id": "365335965868-6ssnfclq06qqpbrv6ac1oevc3aoliq4g.apps.googleusercontent.com",
+          "client_id": "577049293609-kjmsvocca4khqop6ud7actu85p89cqd7.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDZbNSFBeUxF8C67naiJVsffjF4Hq6YoZg"
+          "current_key": "AIzaSyAlplIN6uGvILddb11RCsD9s8hPktIaNJc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "365335965868-6ssnfclq06qqpbrv6ac1oevc3aoliq4g.apps.googleusercontent.com",
+              "client_id": "577049293609-kjmsvocca4khqop6ud7actu85p89cqd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577049293609:android:6c666f8716366bca163d38",
+        "android_client_info": {
+          "package_name": "com.sattva.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577049293609-583ihfecm0s2h80b0uj0eo0jn0u12065.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sattva.shop",
+            "certificate_hash": "08ceff23cb71c7d6b4b41de6c196423d8d55bf58"
+          }
+        },
+        {
+          "client_id": "577049293609-kjmsvocca4khqop6ud7actu85p89cqd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlplIN6uGvILddb11RCsD9s8hPktIaNJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577049293609-kjmsvocca4khqop6ud7actu85p89cqd7.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
